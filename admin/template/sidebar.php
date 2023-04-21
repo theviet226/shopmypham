@@ -29,6 +29,12 @@
                 </a>
             </li>
             <li>
+                <a href="../tai-khoan/">
+                    <i class="fa fa-files-o"></i>
+                    <span>Tài Khoản User</span>
+                </a>
+            </li>
+            <li>
                 <a href="../san-pham/">
                     <i class="fa fa-fw fa-diamond"></i> 
                     <span>Sản phẩm</span>
